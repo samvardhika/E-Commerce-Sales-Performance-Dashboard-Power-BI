@@ -12,7 +12,7 @@ KPI Creation using DAX
 
 Interactive Dashboard Design
 
-Key KPIs
+**Key KPIs**
 
 Total Sales
 
