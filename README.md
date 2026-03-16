@@ -47,7 +47,8 @@ Payment Method
 **Objective**
 
 The goal of this dashboard is to provide clear insights into sales performance and customer purchasing behavior, enabling better business decision-making
- Sales Trend Analysis: Weekly sales visualization revealed fluctuations in revenue patterns, helping identify high-performing periods and potential seasonal demand trends.
+
+* Sales Trend Analysis: Weekly sales visualization revealed fluctuations in revenue patterns, helping identify high-performing periods and potential seasonal demand trends.
 
 * Category Performance: Analysis of sales by category highlighted the top-performing product segments contributing the highest share of total revenue.
 
