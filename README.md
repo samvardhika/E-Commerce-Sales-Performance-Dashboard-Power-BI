@@ -1,6 +1,7 @@
 # E-Commerce-Sales-Performance-Dashboard-Power-BI
 Interactive E-Commerce Sales Performance Dashboard built using Microsoft Power BI, featuring KPI analysis, sales trends, category performance, and regional insights using DAX and Power Query. 
 This project showcases an interactive Sales Performance Dashboard built entirely using Microsoft Power BI. The dashboard analyzes key business metrics and provides insights into sales performance, product trends, and regional distribution.
+
 **Project Workflow**
 
 Data Cleaning using Power Query
